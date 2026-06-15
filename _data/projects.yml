@@ -1,0 +1,16 @@
+# _data/projects.yml
+
+- title: "Modbus Engine"
+  description: "A high-performance C++ I/O class designed for low-latency communication (under 20ms) with Mitsubishi FX5U PLCs using the Qt framework."
+  stack: "C++, Qt, Modbus TCP, Industrial Automation"
+  github: "https://github.com/inkfil/modbus_engine"
+
+- title: "Indoor Tracking System"
+  description: "Prototype development for real-time tracking operations."
+  stack: "Javascript, express.js, MongoDB"
+  github: "https://github.com/isvidhi/smart-delivery-management"
+
+- title: "Qt Applications"
+  description: "High-performance cross-platform software layout design. Built responsive native desktop applications using C++ and QML."
+  stack: "C++, Audio DSP, std::pow, Math"
+  github: "https://github.com/isvidhi/Text-Editor-QML"
