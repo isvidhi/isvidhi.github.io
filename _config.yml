@@ -6,7 +6,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/isvidhi"
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 # remote_theme: pages-themes/hacker@main
 # plugins:
 #   - jekyll-remote-theme
