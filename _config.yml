@@ -1,8 +1,9 @@
 title: Vidhi | Industrial Automation & Vision Engineer
 description: Engineering Student • C++ Developer • Computer Vision • Industrial Systems
-remote_theme: pages-themes/hacker@main
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-theme-cayman
+# remote_theme: pages-themes/hacker@main
+# plugins:
+#   - jekyll-remote-theme
 
 # Optional: Add social links if your chosen theme supports them natively
 linkedin: isvidhi
