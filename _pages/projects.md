@@ -36,7 +36,7 @@ permalink: /projects/
 ---
 layout: archive
 title: "Projects"
-permalink: /projects/
+permalink: /_pages/projects/
 ---
 
 {% assign project_list = site.data.projects %}

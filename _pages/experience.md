@@ -11,7 +11,7 @@ Details about your work go here... -->
 ---
 layout: single
 title: "Work Experience"
-permalink: /experience/
+permalink: /_pages/experience/
 ---
 
 ### Software Engineer | Microverse Automation Pvt Ltd.
